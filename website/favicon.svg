@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Outer Gear -->
+  <path d="M28 4h8l1.5 6.2a22 22 0 0 1 5.2 2.2l5.6-3.1 5.6 5.6-3.1 5.6a22 22 0 0 1 2.2 5.2L59.2 28v8l-6.2 1.5a22 22 0 0 1-2.2 5.2l3.1 5.6-5.6 5.6-5.6-3.1a22 22 0 0 1-5.2 2.2L36 59.2h-8l-1.5-6.2a22 22 0 0 1-5.2-2.2l-5.6 3.1-5.6-5.6 3.1-5.6a22 22 0 0 1-2.2-5.2L4.8 36v-8l6.2-1.5a22 22 0 0 1 2.2-5.2l-3.1-5.6 5.6-5.6 5.6 3.1a22 22 0 0 1 5.2-2.2L28 4z" fill="#0f172a" stroke="#f59e0b" stroke-width="2.5"/>
+  <!-- Inner Shield Tricolor -->
+  <clipPath id="shield">
+    <path d="M32 12L49 22v20L32 52 15 42V22L32 12z"/>
+  </clipPath>
+  <g clip-path="url(#shield)">
+    <rect x="14" y="12" width="12" height="40" fill="#15803d"/>
+    <rect x="26" y="12" width="12" height="40" fill="#fef3c7"/>
+    <rect x="38" y="12" width="12" height="40" fill="#ea580c"/>
+  </g>
+  <path d="M32 12L49 22v20L32 52 15 42V22L32 12z" stroke="#f59e0b" stroke-width="2" fill="none"/>
+  <!-- Center Monogram Bar -->
+  <rect x="10" y="25" width="44" height="14" rx="2" fill="#0f172a" stroke="#f8fafc" stroke-width="1.5"/>
+  <text x="32" y="35.5" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="11" fill="#f59e0b" text-anchor="middle" letter-spacing="1">GRADY</text>
+</svg>
