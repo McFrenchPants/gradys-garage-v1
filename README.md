@@ -4,22 +4,17 @@ A modern, mobile-first, ultra-fast static landing page built for **Grady's Garag
 
 ---
 
-## 🎯 Project Objectives
+## 📖 Project Overview
 
-1. **Resolve Google Ads "Unverified Phone Number" Disapproval**
-   - Displays `(989) 725-3800` as plain, selectable, crawlable HTML text directly in the DOM across the `<header>`, `<main>` hero and service sections, location block, and `<footer>`.
-   - Zero reliance on client-side JavaScript injection or rasterized text for phone number visibility, ensuring immediate verification by Google's automated Ads verification crawler.
+This repository contains the official, lightweight business website for **Grady's Garage**, an independent ASE-Certified and NAPA Auto Care Center located in Owosso, Michigan.
 
-2. **Deliver a 10/10 Google Ads Landing Page Quality Score**
-   - **Sub-Second Load Times:** Pure static HTML5 + pre-compiled, minified CSS (`website/styles.css`) with zero render-blocking scripts.
-   - **Zero Cumulative Layout Shift (CLS):** Explicit `width` and `height` dimensions on all media assets and pre-allocated containers.
-   - **High Ad-to-Page Relevance:** Targeted local keyword architecture covering computer diagnostics, check engine lights, disc brake repair, preventative maintenance, synthetic oil changes, cooling/AC, and steering/suspension in Owosso & Shiawassee County, MI.
-   - **Semantic & Accessible Markup:** WCAG AA contrast compliance, landmark elements, ARIA attributes, and complete `schema.org/AutoRepair` + `FAQPage` JSON-LD structured data in the `<head>`.
+The website is designed to provide customers with a clean, fast, and mobile-friendly experience to learn about shop services, find operating hours and location details, and easily contact the team for vehicle service appointments.
 
-3. **Maximize Local Driver Conversion Rates (CRO)**
-   - Persistent click-to-call header (`tel:9897253800`) and mobile sticky bottom call bar.
-   - Live shop open/closed status indicator synchronized to Eastern Time (`America/Detroit`, Mon–Fri 8:00 AM – 5:00 PM) with 24/7 Key Drop & Secure Lockbox Pickup callouts.
-   - Authentic shop photography featuring owner **Jim Grady**, the E Main Street facility, heavy-duty lift bays, NAPA nationwide warranty lobby, and 24/7 key drop lockboxes.
+### Key Highlights
+- **Simple & Fast:** Pure static HTML5 and CSS with sub-second load times and zero heavy runtime dependencies.
+- **Mobile-First & Accessible:** Fully responsive layout with intuitive click-to-call actions, clear navigation, and accessible semantic markup.
+- **Local Business Essentials:** Clear overview of auto repair services, ASE/NAPA certifications, shop hours, 24/7 key drop, and location directions.
+- **Production-Ready Hosting:** Structured for direct deployment via Cloudflare Pages or any modern static web host.
 
 ---
 
