@@ -26,7 +26,7 @@ The website is designed to provide customers with a clean, fast, and mobile-frie
 | **Owner / Lead Contact** | Jim Grady |
 | **Address** | 1107 E Main Street, Owosso, MI 48867 |
 | **Phone** | `(989) 725-3800` (`tel:9897253800`) |
-| **Email** | `gradysgarage@gmail.com` |
+| **Email** | *Temporarily removed / phone-preferred* |
 | **Primary Domain** | `https://gradysgarage.com` |
 | **Hours** | Monday – Friday: 8:00 AM – 5:00 PM (Closed Sat–Sun) |
 | **Accreditations** | Certified NAPA Auto Care Center • ASE-Certified Technicians • Shiawassee Regional Chamber of Commerce Member • ~4.9★ Customer Rating |

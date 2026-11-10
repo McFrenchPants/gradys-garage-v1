@@ -9,7 +9,7 @@
 * **Owner / Lead Contact:** Jim Grady
 * **Physical Address:** 1107 E Main Street, Owosso, MI 48867
 * **Primary Phone:** (989) 725-3800
-* **Email:** gradysgarage@gmail.com
+* **Email:** Temporarily removed (phone contact preferred)
 * **Primary Domain:** gradysgarage.com
 * **Facebook URL:** https://www.facebook.com/p/Gradys-Garage-100085222930761/
 
